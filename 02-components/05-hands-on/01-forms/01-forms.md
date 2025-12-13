@@ -6,13 +6,6 @@ Em React, **componente é qualquer pedaço da interface que você consegue isola
 
 ---
 
-Beleza, Milena — vamos montar um **mapa mental poderoso**, mas leve, pra você finalmente entender *como* componentizar formulários de um jeito inteligente.
-Sem exagerar, sem padrões enterprise — só o nível perfeito pra quem está começando com React, mas já pensa como dev madura.
-
-A ideia aqui é você aprender a **enxergar componentes**, **organizar responsabilidades**, e **reutilizar UI** sem se embolar.
-
----
-
 # 1) Primeiro: o que *faz sentido* virar componente?
 
 Um formulário qualquer tem várias partes:
