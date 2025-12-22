@@ -21,8 +21,7 @@ Hooks surgiram para:
 * tornar lógica reutilizável
 * deixar o fluxo mais previsível
 
-👉 Hooks **não são mágicos**.
-São funções que o React observa de forma muito específica.
+Hooks **não são mágicos**. São funções que o React observa de forma muito específica.
 
 ---
 
