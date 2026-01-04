@@ -1,4 +1,4 @@
-# React — Estudos e Práticas
+# Estudos de React
 
 Esse repositório reúne meus estudos estruturados em **React.js**: desde os fundamentos essenciais do JavaScript moderno (pré-React) até a construção de componentes, padrões de contexto, boas práticas modernas... Enfim, tudo (ou quase tudo) que usei pra entender React reunido em um só lugar
 
