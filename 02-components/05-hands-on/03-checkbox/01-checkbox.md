@@ -1,6 +1,4 @@
-Perfeito. Vou explicar **como esse projeto funciona conceitualmente em React**, não como “passo a passo de código”, mas como **fluxo de dados, estado e renderização** — que é o que realmente importa.
-
-Vou assumir um design **correto em React**, não um improviso que só “funciona”.
+# To-Do Checkbox
 
 ---
 
